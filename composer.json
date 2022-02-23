@@ -1,5 +1,5 @@
 {
-    "name": "schulzefelix/laravel-adwords-targeting-idea-service",
+    "name": "BuntStudio/laravel-adwords-targeting-idea-service",
     "description": "Laravel wrapper for the AdWords Targeting Idea Service",
     "keywords": [
         "SchulzeFelix",
@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "laravel/framework": "^8.0",
+        "laravel/framework": "^9.0",
         "googleads/googleads-php-lib": "^52.0",
         "schulzefelix/laravel-data-transfer-object": "^1.4.0"
     },
